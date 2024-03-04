@@ -4,16 +4,14 @@ import './App.css';
 function App() {
   return (
     <>
-  {/* Mirrored from moonbeam.network/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Mar 2024 19:13:36 GMT */}
-  {/* Google Tag Manager */}
-  {/* End Google Tag Manager */}
+  {}
   <meta charSet="UTF-8" />
   <meta
     name="viewport"
     content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
   />
   <title>Moonbeam | Cross-Chain Connected Smart Contract Platform</title>
-  {/* The SEO Framework by Sybre Waaijer */}
+  {/* Clone Done by Nweke Anthony*/}
   <meta
     name="robots"
     content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1"
@@ -54,7 +52,7 @@ function App() {
     name="twitter:image"
     content="https://moonbeam.network/wp-content/uploads/2020/03/cropped-Moonbeam-Logo-Final-500px.png"
   />
-  {/* / The SEO Framework by Sybre Waaijer | 11.89ms meta | 13.99ms boot */}
+  {/* / The Clone done by Nweke Anthony */}
   <link rel="dns-prefetch" href="https://fonts.googleapis.com/" />
   <style
     id="wp-emoji-styles-inline-css"
@@ -297,7 +295,7 @@ function App() {
     name="ssp-config-path"
     content="https://moonbeam.network/wp-content/uploads/simply-static/configs/"
   />
-  {/* Google tag (gtag.js) */}
+  {/* Clone done By Nweke Anthony, @anthonyslav1 github ) */}
   <meta
     name="generator"
     content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
@@ -332,7 +330,7 @@ function App() {
     &lt;style&gt;.wpb_animate_when_almost_visible {"{"} opacity: 1; {"}"}
     &lt;/style&gt;
   </noscript>
-  {/* Google Tag Manager (noscript) */}
+  {/*  code by nweke Anthony @anthonyslav1 GitHub   */}
   <noscript>
     &lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7PPV78"
     height="0" width="0"
